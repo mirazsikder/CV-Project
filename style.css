@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: antiquewhite;
+    font-family: 'Roboto' sans-serif;
+}
+.container{
+    max-width: 1000px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+header{
+
+}
+.hr{
+    height: 200px;
+    background-color: #9ac7fc;
+    padding-top: 10px;
+}
+.bc{
+    height: 200px;
+    background-color: black;
+}
+
+.profile-image{
+    width: 250px;
+    height: 200px;
+    float: left;
+    padding-left: 10px;
+    
+}
+.bio{
+    padding: 70px;
+    color: white;
+    float: left;
+}
+.clear-div{
+    clear: both;
+}
+main{
+
+}
+.left{
+    width: 250px;
+    padding-left: 10px;
+    float: left;
+    background-color: #9ac7fc;
+}
+.in{
+    background-color: #e79701;
+    padding-left: 7px;
+}
+.right{
+    float: left;
+    background-color: #9ac7fc;
+    width: 740px;
+    
+}
+h2{
+    color: white;
+    padding-top: 5px;
+    
+}
+.line{
+    
+    border: 2px solid #f8cc79;
+    border-bottom: none;
+    width: 230px;
+    padding-left: 0px;
+}
+.line2{
+    border: 2px solid #727272;
+    border-bottom: none;
+    width: 720px;
+    padding-left: 0px; 
+}
+.icon{
+    width: 25px;
+    height: 25px;
+    padding-top: 10px;
+    float: left;
+}
+.pn{
+    color: white;
+    float: left;
+    padding-top: 11px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+.f1{
+    padding-left: 10px;
+}
+.co{
+    color: black;
+    padding-top: 9.5px;
+}
+p{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+.ex{
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+li{
+    font-size: 20px;
+    
+}
+.ft{
+    background-color: black;
+}
+.ad{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.ad1{
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.fb{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+}
+.id{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+}
+.ig{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    
+}
+.tw{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+}
+.social-icon{
+    padding-left: 410px;
+    padding-right: 410px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
